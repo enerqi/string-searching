@@ -1,6 +1,6 @@
 -r requirements-test.txt
 -r requirements.txt
 ipdb
-ipython
+ipython=4.2.0
 memory_profiler
 psutil
