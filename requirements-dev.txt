@@ -1,12 +1,6 @@
 -r requirements-test.txt
 -r requirements.txt
-doit
-ggcq
 ipdb
 ipython[notebook,nbconvert]
-matplotlib
 memory_profiler
-numexpr
-pandas
-pre-commit
 psutil

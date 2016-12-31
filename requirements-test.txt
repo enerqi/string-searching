@@ -6,3 +6,4 @@ pytest-capturelog
 pytest-cov
 pytest-mock
 pytest-pep8
+flake8
