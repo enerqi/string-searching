@@ -1,6 +1,6 @@
 -r requirements-test.txt
 -r requirements.txt
 ipdb
-ipython[notebook,nbconvert]
+ipython
 memory_profiler
 psutil
